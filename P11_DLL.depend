@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1476146382 source:c:\users\dell\documents\7th\info\prograav\programas\2 parcial\mission1\p11_dll\main.cpp
+	"main.h"
+
+1476146417 c:\users\dell\documents\7th\info\prograav\programas\2 parcial\mission1\p11_dll\main.h
+	<windows.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1476146877 source:c:\users\dell\documents\7th\info\prograav\programas\2 parcial\p11_dll\main.c
+	"main.h"
+
+1476147050 c:\users\dell\documents\7th\info\prograav\programas\2 parcial\p11_dll\main.h
+	<windows.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
